@@ -1,0 +1,6 @@
+#textblur {
+	font-family: "Verdana", Times, serif;
+    font-size: 25px;
+    font-weight: 50%;
+    -webkit-filter: blur(1px);
+}

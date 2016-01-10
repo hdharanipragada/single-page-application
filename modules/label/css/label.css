@@ -1,0 +1,22 @@
+.main {
+    float: left;
+    box-shadow: 0px 0px 0px 15px rgba(171, 11, 11, 0);
+   
+}
+
+.label {
+    float: right;
+    position: relative;
+    margin-top: 58px;
+    height: 36px;
+    width: 255px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 0px 6px rgba(171, 11, 11, 1);
+    background: #b30000;
+    text-align: center;
+    font-family: "Verdana", Times, serif;
+    color: white;
+    font-size: 20px;
+    padding: 2px;
+    transform: rotate(315deg);
+}

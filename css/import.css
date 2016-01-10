@@ -1,0 +1,24 @@
+/*
+ * Imports all the CSS files required for 
+ * the application
+ */
+
+@import url("id.css");
+@import url("nav.css");
+@import url("main.css");
+@import url("mediamenu.css");
+@import url("../modules/alignedlist/css/alignedlist.css");
+@import url("../modules/buttonwithshadow/css/buttonwithshadow.css");
+@import url("../modules/circularimage/css/circularimage.css");
+@import url("../modules/dropdown/css/dropdownmenu.css");
+@import url("../modules/formatfirstandlast/css/formatfirstlast.css");
+@import url("../modules/formattext/css/formattext.css");
+@import url("../modules/footertobottom/css/footertobottom.css");
+@import url("../modules/humanface/css/humanface.css");
+@import url("../modules/imageborder/css/imageborder.css");
+@import url("../modules/imagehover/css/imagehover.css");
+@import url("../modules/label/css/label.css");
+@import url("../modules/nonemptyelement/css/nonemptyelement.css");
+@import url("../modules/talkbubble/css/talkbubble.css");
+@import url("../modules/textblur/css/textblur.css");
+@import url("../modules/about/css/about.css");

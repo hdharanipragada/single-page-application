@@ -1,0 +1,8 @@
+.imageborder {
+	height: 200px;
+	width: 250px;
+    border: 25px solid transparent;
+    padding: 20px;
+    background-color: #3399CC;
+    border-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX6gWgeI1g97Btn-X5GO0t6nVlldyOPWiWRN7U2nA-isiE_851) 20 stretch;
+}

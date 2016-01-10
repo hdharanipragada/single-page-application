@@ -1,0 +1,9 @@
+.body{
+	background-color: #C8C8C8;
+}
+.formatting p{
+	-webkit-column-count:3;
+	column-gap:10px;
+	text-align: justify;
+	font-family: "Verdana", Times, serif;
+}

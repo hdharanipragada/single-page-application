@@ -1,0 +1,15 @@
+#nonee p {
+	height: 100px;
+	width: 100px;
+    overflow: hidden;
+    background-color: #007fff;
+    font-weight: 25%;
+    text-align: center;
+    font-family: "Verdana", Times, serif;
+}
+
+#nonee p:empty {
+	height: 100px;
+	width: 100px;
+    background-color: green;
+}

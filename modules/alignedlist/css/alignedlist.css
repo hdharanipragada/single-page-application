@@ -1,0 +1,13 @@
+    ol {
+    counter-reset: x;
+}
+
+ol li {
+    padding-left: 20px;
+    list-style-type: none;
+    color: #ffffb3;
+}
+
+ol li:before {
+    content: counters(x, ".") ".";
+    counter-increment: x

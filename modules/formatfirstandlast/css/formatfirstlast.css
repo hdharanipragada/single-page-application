@@ -1,0 +1,11 @@
+ .my-div1 p::first-letter {
+    font-size: 18px;
+    color: red;
+    font-family: "Verdana", Times, serif;
+}
+
+.my-div1 p::first-line {
+    font-size: 15px;
+    color: blue;
+    font-family: "Verdana", Times, serif;
+}

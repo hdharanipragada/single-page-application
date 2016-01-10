@@ -1,0 +1,16 @@
+<script type="text/javascript" src="js/common.js/singlepageapp.js"></script>
+<script type="text/javascript" src="js/servicemanager/alignedlistservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/buttonwithshadowservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/circularimageservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/dropdownmenuservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/footertobottomservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/formatfirstandlastservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/formattextservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/humanservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/imageborderservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/imagehoverservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/labelservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/maintainhwservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/nonemptyelementservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/talkbubbleservicemanager.js"></script>
+<script type="text/javascript" src="js/servicemanager/textblurservicemanager.js"></script>cr

@@ -1,0 +1,21 @@
+.pic,
+.hover-image {
+    height: 220px;
+    width: 200px;
+}
+
+.pic {
+    background: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzjPXh0AKFqjFfJSqodJxpOFMnbnJPFT27yskO8rZiiz_QUWzzBg);
+    opacity: 1;
+}
+
+.hover-image {
+    background: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzX0qfEHTrJbO7kvMWwNkkMg3eM8peZkGt6a3g6cn7HwcI5KNy);
+    opacity: 0;
+}
+
+.pic:hover .hover-image {
+    opacity: 1;
+    cursor: pointer;
+    -webkit-transition: all .1s ease .3s;
+}

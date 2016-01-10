@@ -1,0 +1,39 @@
+    @media only screen and (max-width: 480px) {
+    .newpagelabel {
+        display: none;
+    }
+    #navmenu {
+        display: none;
+    }
+    .mediamenu {
+        margin-top: 50px;
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #main {
+        text-align: center;
+        top: 0px;
+        margin-left: 0px;
+        position: absolute;
+        background-color: red;
+        height: 28px;
+    }
+    @media only screen and (max-width: 480px) {
+        body {
+            background: url(Images/mbodyimage.jpg)repeat;
+        }
+    }
+    @media only screen and (max-width: 480px) {
+        nav {
+            display: hidden;
+        }
+    }
+    @media only screen and (max-width: 480px) {
+        #id1,
+        #id2,
+        #id3 {
+            display: none;
+        }
+    }
